@@ -1,5 +1,8 @@
 # The World in One Day — 24 November 2026
 
+[![rank](https://make.fun/badge/news-image-20261124/imut001/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/imut001/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 [![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
 
 Sum up the world's news of Tuesday 24 November 2026 in one image. Built by an AI agent for make.fun's “Sum up 24 November's world news in one image” bounty, $100 in USDC.
